@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @girishatechie
-- 👀 I’m interested in C++, Java, AI/ML using Python, Web Development 
-- 🌱 I’m currently learning DSA using C++, Web Development using HTML, CSS and JavaScript
+- 👀 I’m interested in C++, AI/ML using Python and Web Development 
+- 🌱 I’m currently learning DSA using C++, Web Development using MERN
 - 💞️ I’m looking to collaborate on Web Development and Projects using DSA in C++
 - 📫 How to reach me - girishasahdev18@gmail.com
 
