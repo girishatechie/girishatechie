@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on Machine Learning, Web Development and Projects using DSA in C++
 - 📫 How to reach me - girishasahdev18@gmail.com
 
+
+![Girisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=girishatechie&count_private=true&theme=radical)
+
+
 <!---
 girishatechie/girishatechie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
