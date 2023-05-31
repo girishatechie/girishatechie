@@ -5,7 +5,6 @@
 - 📫 How to reach me - girishasahdev18@gmail.com
 
 
-![Girisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=girishatechie&count_private=true&theme=radical)
 
 
 <!---
