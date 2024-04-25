@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @girishatechie
 - 👀 I’m interested in C++, AI/ML and Web Development 
-- 💞️ I’m looking to collaborate on Machine Learning, Web Development and Projects involving DSA in C++
 - 📫 How to reach me - girishasahdev18@gmail.com
 
 
