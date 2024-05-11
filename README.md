@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @girishatechie
-- 👀 I’m interested in C++, AI/ML and Web Development 
-- 📫 How to reach me - girishasahdev18@gmail.com
+<b>AI/ML | Data Science | Web</b>
+
+📫 How to reach me - girishasahdev18@gmail.com
 
 
 
