@@ -44,7 +44,7 @@
 </div>
 
 <div id="badges">
-  <h3>Connect:</h3>
+  <h3>Connect with me!</h3>
   <a href="https://www.linkedin.com/in/girisha-sahdev-131056231/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
