@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"  title="Pandas" alt="Pandas" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="Tensorflow" alt="TF" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="sklearn" alt="sklearn" width="80" height="30"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/1c7f8f7598e5959de96bcbde65c6f54a290263f083111d304911ecdd2d8c16b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174706c6f746c6962266c6f676f436f6c6f723d7768697465" title="Matplotlib" alt="Matplotlib" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" title="Keras" alt="Keras" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"  title="Tableau" alt="Tableau" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"  title="SQL" alt="SQL" width="80" height="30"/>&nbsp;
