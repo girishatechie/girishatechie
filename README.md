@@ -6,7 +6,7 @@
 <div id="bio">
   <h2>About Me</h2>
   <ul>
-    <li>I'm an Engineering student at Indira Gandhi Delhi Technical University for Women, currently in my pre-final year. (CGPA: 9.17)</li>
+    <li>I'm an Engineering student at Indira Gandhi Delhi Technical University for Women, currently in my final year. (CGPA: 9.11)</li>
     <li>I'm passionate about AI-ML, Data Science.</li>
     <li>I received the Mitacs Globalink Research Scholarship for the year 2024.</li>    <li>I was awarded the Grace Hopper Celebration Student Scholarship (vGHC'23) by AnitaB.org to attend the Grace Hopper Conference, the World's Largest Gathering of Women Technologists and Women in Computing.</li>
     <li>I was accepted into the Oxford Machine Learning Summer School organized by AI for Global Goals and in partnership with the University of Oxford's Deep Medicine & CIFAR. (OxML 2024)</li>
