@@ -36,12 +36,6 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"  title="Kaggle" alt="Kaggle" width="80" height="30"/>&nbsp;
 </div>
 
-<div id="stats">
-  <h3>Stats</h3>
-  <img src="https://streak-stats.demolab.com?user=girishatechie&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girishatechie&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</div>
-
 <div id="badges">
   <h3>Connect with me!</h3>
   <a href="https://www.linkedin.com/in/girisha-sahdev-131056231/">
